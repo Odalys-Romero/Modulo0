@@ -1,0 +1,8 @@
+Git
+Se trata de un sistema de control de versiones que brinda informacion o las diferentes versiones de un mismo proyecto. 
+La diferencia entre Git y Github es que Git es un programa loca y funciona en la terminal, mientras que Github sirve para colaborar con otros en un mismo proyecto, tiene interfaz web, ademas de guardar versiones propias guarda versiones de las personas con las que trabajas. 
+
+Caracteristicas 
+Es un software distribuido, cada desarrollador tiene una copia identica del proyecto y tiene el backup del mismo. 
+Sus ramas y fusiones sirven para agregar detalles o caracteristicas al proyecto
+Tambien da una integridad de datos, es decir, agrega una suma de comprobacion extra a cada archivo para comprobar que todos los desarrolladores tengan y trabajen con la misma informacion 

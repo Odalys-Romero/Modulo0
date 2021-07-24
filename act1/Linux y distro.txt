@@ -1,0 +1,11 @@
+Linux es el kernel que ayudo a correr y lograr el sofwtare libre, sumandolo con GNU; formando GNU-Linux, un sistema operativo. 
+Los sistemas operativos basados en Linux son llamados distribuciones; es decir, que version de Linux utiliza el usuario. Sin embargo, debido a la variedad de distribuciones ha ocurrido una fragmentacion que ha impedido la consolidacion de GNU-Linux como sistema operativo en el escritorio. A pesar de que Linux no ha podido reinar en el escritorio o en Android, ha tomado fuerza en servidores y en supercomputadoras por la razon que lo ha definido hasta ahora: su personalizacion. 
+Una gran ventaja a pesar de dichas distribuciones es lo amigable que es la linea de comandos con todas las distribuciones de Linux, ya que se puede manejar con culaquiera. 
+
+Distribucciones
+Debian: de las mas importantes, las mas usadas y la mas antigua. Es muy estable, sus actualizaciones se basan en resolver problemas, de rendimiento, seguridad y compatibilidad. 
+Ubuntu: Basada en Debian, la mas usada. Nace con el objetivo de llevar a Linux a todo el mundo y hacerlo mas accesible. 
+Linux mint: Basada en Ubuntu. Busca acerca Linux a los principiantes por su familiaridad con Windows. 
+Redhat: Es un programa que brinda servicios a grandes empresas.
+Fedora: Basada en RedHat. Gratis para todo el mundo.
+CentOS: Basada en Redhat. Se trata de una distribucion  igual a Redhat para la comunidad, sin pagar las cuotas empresariales.
